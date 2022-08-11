@@ -3,7 +3,7 @@
 **Neural Network library only using [numpy](https://numpy.org/).** (inspired by keras) 
 
 * **INFO**: For any of the examples which require the mnist dataset, please download the dataset from **[here](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv).**
-* **INFO**: This is an upgraded version of a [previous project](https://github.com/OmPanchal/nn-from-scratch)
+* **INFO**: This is an upgraded version of a **[previous project](https://github.com/OmPanchal/nn-from-scratch)**
 
 After you have prepared your data...
 1. **Design your model using**
